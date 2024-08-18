@@ -1,9 +1,9 @@
-# NFT Clone Zillow
+# NFT Escrow App
 
 ## Technology Stack & Tools
 
 - Solidity
-- React & JEST
+- React, Mocha and Chai
 - Hardhat
 
 ### 2. Install Dependencies:
